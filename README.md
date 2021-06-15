@@ -1,4 +1,4 @@
-# HomelessinMaryland
+# Homeless in Maryland
 Homeless in Maryland
 Our Group Project Unit 7 - Project One
 
